@@ -20,3 +20,6 @@ console.log(friendList[5]);//undefined
 
 friendList.sort();
 console.log(friendList);
+
+friendList.push('alex')
+console.log(friendList);
